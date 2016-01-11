@@ -1,0 +1,276 @@
+{
+  "file" : false,
+  "fileName" : "D:\\testfiles",
+  "fileSize" : 13160253,
+  "inDirectoryList" : [ {
+    "file" : false,
+    "fileName" : "androidtorrent",
+    "fileSize" : 1403173,
+    "inDirectoryList" : [ {
+      "file" : false,
+      "fileName" : "files",
+      "fileSize" : 0,
+      "inDirectoryList" : [ ]
+    }, {
+      "file" : true,
+      "fileName" : "StartTorrentClientPeer.bat",
+      "fileSize" : 69,
+      "inDirectoryList" : [ ]
+    }, {
+      "file" : true,
+      "fileName" : "StartTorrentClientSeed.bat",
+      "fileSize" : 68,
+      "inDirectoryList" : [ ]
+    }, {
+      "file" : true,
+      "fileName" : "StartTorrentCreate.bat",
+      "fileSize" : 117,
+      "inDirectoryList" : [ ]
+    }, {
+      "file" : true,
+      "fileName" : "StartTorrentTraker.bat",
+      "fileSize" : 51,
+      "inDirectoryList" : [ ]
+    }, {
+      "file" : false,
+      "fileName" : "torrents",
+      "fileSize" : 0,
+      "inDirectoryList" : [ ]
+    }, {
+      "file" : true,
+      "fileName" : "torrenttest.jar",
+      "fileSize" : 11972,
+      "inDirectoryList" : [ ]
+    }, {
+      "file" : false,
+      "fileName" : "torrenttest_lib",
+      "fileSize" : 1390896,
+      "inDirectoryList" : [ {
+        "file" : true,
+        "fileName" : "commons-codec-1.8.jar",
+        "fileSize" : 263865,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "commons-io-2.4.jar",
+        "fileSize" : 185140,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "jargs-1.0.jar",
+        "fileSize" : 11406,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "log4j-1.2.16.jar",
+        "fileSize" : 481535,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "simple-4.1.21.jar",
+        "fileSize" : 242740,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "slf4j-api-1.6.4.jar",
+        "fileSize" : 25962,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "slf4j-log4j12-1.6.4.jar",
+        "fileSize" : 9748,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "ttorrent-1.4.jar",
+        "fileSize" : 170500,
+        "inDirectoryList" : [ ]
+      } ]
+    } ]
+  }, {
+    "file" : true,
+    "fileName" : "Directory.json",
+    "fileSize" : 7402,
+    "inDirectoryList" : [ ]
+  }, {
+    "file" : false,
+    "fileName" : "filetoseed",
+    "fileSize" : 1390901,
+    "inDirectoryList" : [ {
+      "file" : true,
+      "fileName" : "1.txt",
+      "fileSize" : 1,
+      "inDirectoryList" : [ ]
+    }, {
+      "file" : true,
+      "fileName" : "2.txt",
+      "fileSize" : 1,
+      "inDirectoryList" : [ ]
+    }, {
+      "file" : true,
+      "fileName" : "3.txt",
+      "fileSize" : 1,
+      "inDirectoryList" : [ ]
+    }, {
+      "file" : true,
+      "fileName" : "4.txt",
+      "fileSize" : 1,
+      "inDirectoryList" : [ ]
+    }, {
+      "file" : true,
+      "fileName" : "5.txt",
+      "fileSize" : 1,
+      "inDirectoryList" : [ ]
+    }, {
+      "file" : false,
+      "fileName" : "torrenttest_lib",
+      "fileSize" : 1390896,
+      "inDirectoryList" : [ {
+        "file" : true,
+        "fileName" : "commons-codec-1.8.jar",
+        "fileSize" : 263865,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "commons-io-2.4.jar",
+        "fileSize" : 185140,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "jargs-1.0.jar",
+        "fileSize" : 11406,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "log4j-1.2.16.jar",
+        "fileSize" : 481535,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "simple-4.1.21.jar",
+        "fileSize" : 242740,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "slf4j-api-1.6.4.jar",
+        "fileSize" : 25962,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "slf4j-log4j12-1.6.4.jar",
+        "fileSize" : 9748,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "ttorrent-1.4.jar",
+        "fileSize" : 170500,
+        "inDirectoryList" : [ ]
+      } ]
+    } ]
+  }, {
+    "file" : false,
+    "fileName" : "torrnet",
+    "fileSize" : 10358777,
+    "inDirectoryList" : [ {
+      "file" : false,
+      "fileName" : "files",
+      "fileSize" : 10358777,
+      "inDirectoryList" : [ {
+        "file" : true,
+        "fileName" : "12560",
+        "fileSize" : 1088,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "2015-12-22-1.log.gz",
+        "fileSize" : 3676,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "2015-12-22-2.log.gz",
+        "fileSize" : 3554,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "2015-12-22-3.log.gz",
+        "fileSize" : 5200,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "2015-12-23-1.log.gz",
+        "fileSize" : 1086,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "2015-12-23-2.log.gz",
+        "fileSize" : 1081,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "2015-12-23-4.log.gz",
+        "fileSize" : 1078,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "2015-12-23-5.log.gz",
+        "fileSize" : 2070,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "2015-12-23-6.log.gz",
+        "fileSize" : 2379,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "2015-12-23-7.log.gz",
+        "fileSize" : 3112,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "BobblesAndMags-497-7-0.rar",
+        "fileSize" : 1457,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "fml-client-1.log",
+        "fileSize" : 3294191,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "fml-client-2.log",
+        "fileSize" : 3341765,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "fml-client-3.log",
+        "fileSize" : 3397074,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "fml-junk-earlystartup.log",
+        "fileSize" : 15631,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "latest.log",
+        "fileSize" : 29182,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "ололо",
+        "fileSize" : 5858,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "руукнпркуркеркер",
+        "fileSize" : 243888,
+        "inDirectoryList" : [ ]
+      }, {
+        "file" : true,
+        "fileName" : "тест",
+        "fileSize" : 5407,
+        "inDirectoryList" : [ ]
+      } ]
+    } ]
+  } ]
+}

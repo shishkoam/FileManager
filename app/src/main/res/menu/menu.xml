@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_refresh"
+        android:orderInCategory="100"
+        android:title="Refresh"
+        android:icon="@drawable/ic_refresh"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_delete"
+        android:orderInCategory="100"
+        android:title="Delete"
+        android:icon="@drawable/ic_editing_delete_icon"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/expandAll"
+        app:showAsAction="never"
+        android:title="ExpandAll" />
+    <item
+        app:showAsAction="never"
+        android:id="@+id/collapseAll"
+        android:title="CollapseAll" />
+
+</menu>
